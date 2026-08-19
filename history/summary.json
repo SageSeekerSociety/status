@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cheese.ruc.edu.cn.ico",
     "slug": "production-cheese-ruc-edu-cn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "6.57%",
+    "uptimeDay": "6.57%",
+    "uptimeWeek": "6.57%",
+    "uptimeMonth": "6.57%",
+    "uptimeYear": "6.57%",
     "time": 1268,
     "timeDay": 1268,
     "timeWeek": 1268,
     "timeMonth": 1268,
     "timeYear": 1268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-19": 4
+    }
   }
 ]
