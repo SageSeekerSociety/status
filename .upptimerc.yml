@@ -1,4 +1,4 @@
-owner: SageSeekerSociety
+owner: andylizf
 repo: status
 
 sites:
@@ -15,7 +15,7 @@ status-website:
   cname: status.okcheese.com
   name: Cheese Status
   introTitle: "**Cheese** service status"
-  introMessage: Live uptime and response-time history for [okcheese.com](https://okcheese.com), checked every 5 minutes from GitHub Actions. Incidents are tracked as [GitHub issues](https://github.com/SageSeekerSociety/status/issues).
+  introMessage: Live uptime and response-time history for [okcheese.com](https://okcheese.com), checked every 5 minutes from GitHub Actions. Incidents are tracked as [GitHub issues](https://github.com/andylizf/status/issues).
   navbar:
     - title: Status
       href: /
