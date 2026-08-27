@@ -1,4 +1,4 @@
-owner: andylizf
+owner: SageSeekerSociety
 repo: status
 
 sites:
@@ -8,14 +8,12 @@ sites:
     url: https://okcheese.com/api/healthz
   - name: WWW
     url: https://www.okcheese.com
-  - name: Production (cheese.ruc.edu.cn)
-    url: https://cheese.ruc.edu.cn
 
 status-website:
   cname: status.okcheese.com
   name: Cheese Status
   introTitle: "**Cheese** service status"
-  introMessage: Live uptime and response-time history for [okcheese.com](https://okcheese.com), checked every 5 minutes from GitHub Actions. Incidents are tracked as [GitHub issues](https://github.com/andylizf/status/issues).
+  introMessage: Live uptime and response-time history for [okcheese.com](https://okcheese.com), checked every 5 minutes from GitHub Actions. Incidents are tracked as [GitHub issues](https://github.com/SageSeekerSociety/status/issues).
   navbar:
     - title: Status
       href: /
