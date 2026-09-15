@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/okcheese.com.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "93.57%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "93.57%",
+    "uptime": "93.15%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "93.15%",
+    "uptimeYear": "93.15%",
     "time": 481,
     "timeDay": 692,
     "timeWeek": 677,
@@ -21,7 +21,7 @@
       "2026-08-27": 145,
       "2026-09-01": 293,
       "2026-09-09": 207,
-      "2026-09-15": 1
+      "2026-09-15": 178
     }
   },
   {
@@ -29,23 +29,23 @@
     "url": "https://okcheese.com/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/okcheese.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "94.11%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
-    "time": 459,
-    "timeDay": 711,
-    "timeWeek": 697,
-    "timeMonth": 459,
-    "timeYear": 459,
+    "status": "up",
+    "uptime": "93.68%",
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "93.68%",
+    "time": 466,
+    "timeDay": 691,
+    "timeWeek": 692,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2026-08-29": 417,
       "2026-08-28": 1440,
       "2026-08-27": 144,
       "2026-09-01": 293,
-      "2026-09-15": 0
+      "2026-09-15": 177
     }
   },
   {
@@ -53,22 +53,23 @@
     "url": "https://www.okcheese.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.okcheese.com.ico",
     "slug": "www",
-    "status": "down",
-    "uptime": "94.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
-    "time": 460,
-    "timeDay": 644,
-    "timeWeek": 645,
-    "timeMonth": 460,
-    "timeYear": 460,
+    "status": "up",
+    "uptime": "93.68%",
+    "uptimeDay": "87.70%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "93.68%",
+    "time": 466,
+    "timeDay": 637,
+    "timeWeek": 642,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2026-08-29": 417,
       "2026-08-28": 1440,
       "2026-08-27": 144,
-      "2026-09-01": 293
+      "2026-09-01": 293,
+      "2026-09-15": 177
     }
   }
 ]
