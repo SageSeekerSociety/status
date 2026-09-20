@@ -1,7 +1,7 @@
 url: https://okcheese.com/api/healthz
-status: up
-code: 200
-responseTime: 605
-lastUpdated: 2026-09-20T00:35:41.536Z
+status: down
+code: 502
+responseTime: 548
+lastUpdated: 2026-09-20T21:50:25.521Z
 startTime: 2026-08-19T16:59:37.646Z
 generator: Upptime <https://github.com/upptime/upptime>
