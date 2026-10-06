@@ -8,6 +8,13 @@ sites:
     url: https://okcheese.com/api/healthz
   - name: WWW
     url: https://www.okcheese.com
+  # Preview content domain. An unauthenticated request is answered by the
+  # backend with 401 ("Open this preview through Cheese"), so 401 means the
+  # whole path to the backend is up; 502/530 mean it is not.
+  - name: Previews
+    url: https://preview-00000000000000000000000000000000.cheeseusercontent.com/
+    expectedStatusCodes:
+      - 401
 
 status-website:
   cname: status.okcheese.com
